@@ -44,14 +44,14 @@ img {
     width: 350px;
 }
 .contacto{
-   margin: 0 0 0 100px;
+   text-align: center;
    font-size: medium;
 }
 h2{
     font-size: medium;
 }
 h1{
-    margin: 0 0 0 150px
+    text-align: center;
 }
 .inicio{
     color: rgb(84, 220, 186);
